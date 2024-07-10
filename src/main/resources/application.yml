@@ -1,0 +1,22 @@
+##We can keep all active profiles here unlike .properties  seperate files for each
+#spring:
+#  application:
+#    name: demoservice
+#server:
+#  port: 8080
+#
+#---
+#spring:
+#  profiles: dev
+#  application:
+#    name: demoservice
+#server:
+#  port: 9090
+#
+#---
+#spring:
+#  profiles: prod
+#  application:
+#    name: demoservice
+#server:
+#  port: 4431
